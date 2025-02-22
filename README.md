@@ -71,8 +71,6 @@ Start the Client
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
 - [@Piyush-eon](https://github.com/piyush-eon)
